@@ -14,6 +14,7 @@
   <a href="https://twitter.com/realkingtino">Twitter</a> |
   <a href="https://www.linkedin.com/in/adekola-aliyu-a46484269">LinkedIn</a> |
   <a href="https://instagram.com/santiiino__">Instagram</a>
+  <a href="https://github.com/RealKingTino">GitHub</a>
 </p>
 
 <footer>
