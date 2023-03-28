@@ -4,7 +4,7 @@
 
 <h1 align="center">About Me</h1>
 
-<p>Hi, my name is Aliyu Adekola. I'm a Software Engineering student at ALX, currently pursuing a Master's degree in Industrial and Labor Relations. I hold a Bachelor's degree in Business Administration and I am passionate about developing innovative software solutions that can make a real impact in people's lives.</p>
+<p>Hi, my name is Aliyu Adekola. I'm a Software Engineering student at ALX, currently pursuing a Master's degree in Industrial and Labor Relations. I hold a Bachelor's degree in Business Administration and I am passionate about developing innovative software solutions that can make a real impact in people's lives. I have worked on some projects as a student at ALX and have a portfolio of my work on my GitHub page. Link Below.</p>
 
 <p align="center">
   Feel free to connect with me on my social media pages:
