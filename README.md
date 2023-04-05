@@ -27,11 +27,11 @@
     <p>Hi, my name is Aliyu Adekola. I'm a Software Engineering student at ALX, currently pursuing a Master's degree in Industrial and Labor Relations. I hold a Bachelor's degree in Business Administration and I am passionate about developing innovative software solutions that can make a real impact in people's lives. I have worked on some projects as a student at ALX and have a portfolio of my work on my GitHub page. Link Below.</p>
     <p>Feel free to connect with me on my social media pages:</p>
     <p>
-      <a href="https://twitter.com/realkingtino"><img class="logo" src="https://i.imgur.com/Vuw4svt.png" alt="Twitter logo">Twitter</a> |
-      <a href="https://www.linkedin.com/in/adekola-aliyu-a46484269"><img class="logo" src="https://i.imgur.com/Tl7tPQ3.png" alt="LinkedIn logo">LinkedIn</a> |
-      <a href="https://instagram.com/santiiino__"><img class="logo" src="https://i.imgur.com/Xx0C0rC.png" alt="Instagram logo">Instagram</a> |
-      <a href="mailto:tmowizzy@gmail.com"><img class="logo" src="https://i.imgur.com/qz5FsMl.png" alt="Gmail logo">Gmail</a> |
-      <a href="https://github.com/RealKingTino"><img class="logo" src="https://i.imgur.com/4oeI6Tn.png" alt="GitHub logo">GitHub</a>
+      <a href="https://twitter.com/realkingtino"><img class="logo" src="https://i.imgur.com/l3q7VWk.png" alt="Twitter logo">Twitter</a> |
+      <a href="https://www.linkedin.com/in/adekola-aliyu-a46484269"><img class="logo" src="https://i.imgur.com/DyBrWzO.png" alt="LinkedIn logo">LinkedIn</a> |
+      <a href="https://instagram.com/santiiino__"><img class="logo" src="https://i.imgur.com/BMk78kw.png" alt="Instagram logo">Instagram</a> |
+      <a href="mailto:tmowizzy@gmail.com"><img class="logo" src="https://i.imgur.com/9j6ifTr.png" alt="Gmail logo">Gmail</a> |
+      <a href="https://github.com/RealKingTino"><img class="logo" src="https://i.imgur.com/KhxzJiv.png" alt="GitHub logo">GitHub</a>
     </p>
     <div class="github-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=RealKingTino&show_icons=true&theme=dracula" alt="GitHub stats">
@@ -43,4 +43,3 @@
   </footer>
 </body>
 </html>
-
