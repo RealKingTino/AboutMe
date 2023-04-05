@@ -4,45 +4,43 @@
   <meta charset="UTF-8">
   <title>About Me</title>
   <style>
-    body {
-      background-color: #f5f5f5;
+    .logo {
+      width: 24px;
+      height: 24px;
+      margin-right: 8px;
     }
-    h1 {
-      text-align: center;
+    .github-stats {
+      display: flex;
+      justify-content: center;
+      margin-top: 16px;
     }
-    img {
-      display: block;
-      margin: auto;
-      border-radius: 50%;
-      margin-top: 30px;
-    }
-    p {
-      text-align: center;
-      font-size: 1.2rem;
-      max-width: 800px;
-      margin: auto;
-      margin-top: 30px;
-    }
-    footer {
-      text-align: center;
-      margin-top: 50px;
-      font-size: 0.8rem;
+    .github-stats img {
+      height: 20px;
+      margin-right: 8px;
     }
   </style>
 </head>
 <body>
-  <img src="https://pbs.twimg.com/profile_images/1635280999780356097/XCQeqNuy_400x400.jpg" alt="My Picture">
-  <h1>About Me</h1>
-  <p>Hi, my name is Aliyu Adekola. I'm a Software Engineering student at ALX, currently pursuing a Master's degree in Industrial and Labor Relations. I hold a Bachelor's degree in Business Administration and I am passionate about developing innovative software solutions that can make a real impact in people's lives. I have worked on some projects as a student at ALX and have a portfolio of my work on my GitHub page. Link Below.</p>
-  <p>
-    Feel free to connect with me on my social media pages:<br>
-    <a href="https://twitter.com/realkingtino"><img src="https://i.imgur.com/0fKwb0Q.png" alt="Twitter Logo"></a> |
-    <a href="https://www.linkedin.com/in/adekola-aliyu-a46484269"><img src="https://i.imgur.com/BMhNInF.png" alt="LinkedIn Logo"></a> |
-    <a href="https://instagram.com/santiiino__"><img src="https://i.imgur.com/wU6iJUa.png" alt="Instagram Logo"></a> |
-    <a href="https://github.com/RealKingTino"><img src="https://i.imgur.com/2fuf3tx.png" alt="GitHub Logo"></a> |
-    <a href="mailto:tmowizzy@gmail.com"><img src="https://i.imgur.com/mG9JQ7V.png" alt="Gmail Logo"></a>
-  </p>
-  <footer>© 2023 Aliyu Adekola</footer>
+  <div style="text-align:center;">
+    <img src="https://pbs.twimg.com/profile_images/1635280999780356097/XCQeqNuy_400x400.jpg" alt="My Picture">
+    <h1>About Me</h1>
+    <p>Hi, my name is Aliyu Adekola. I'm a Software Engineering student at ALX, currently pursuing a Master's degree in Industrial and Labor Relations. I hold a Bachelor's degree in Business Administration and I am passionate about developing innovative software solutions that can make a real impact in people's lives. I have worked on some projects as a student at ALX and have a portfolio of my work on my GitHub page. Link Below.</p>
+    <p>Feel free to connect with me on my social media pages:</p>
+    <p>
+      <a href="https://twitter.com/realkingtino"><img class="logo" src="https://i.imgur.com/Vuw4svt.png" alt="Twitter logo">Twitter</a> |
+      <a href="https://www.linkedin.com/in/adekola-aliyu-a46484269"><img class="logo" src="https://i.imgur.com/Tl7tPQ3.png" alt="LinkedIn logo">LinkedIn</a> |
+      <a href="https://instagram.com/santiiino__"><img class="logo" src="https://i.imgur.com/Xx0C0rC.png" alt="Instagram logo">Instagram</a> |
+      <a href="mailto:tmowizzy@gmail.com"><img class="logo" src="https://i.imgur.com/qz5FsMl.png" alt="Gmail logo">Gmail</a> |
+      <a href="https://github.com/RealKingTino"><img class="logo" src="https://i.imgur.com/4oeI6Tn.png" alt="GitHub logo">GitHub</a>
+    </p>
+    <div class="github-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=RealKingTino&show_icons=true&theme=dracula" alt="GitHub stats">
+      <img src="https://komarev.com/ghpvc/?username=RealKingTino&color=blueviolet" alt="Profile views">
+    </div>
+  </div>
+  <footer>
+    <p align="center">© 2023 Aliyu Adekola</p>
+  </footer>
 </body>
 </html>
 
