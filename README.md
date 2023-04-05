@@ -5,74 +5,44 @@
   <title>About Me</title>
   <style>
     body {
-      background-color: #f7f7f7;
-    }
-    .container {
-      max-width: 600px;
-      margin: 0 auto;
-      padding: 20px;
+      background-color: #f5f5f5;
     }
     h1 {
       text-align: center;
-      font-size: 36px;
-      margin-bottom: 20px;
     }
     img {
       display: block;
-      margin: 0 auto;
+      margin: auto;
       border-radius: 50%;
-      max-width: 150px;
-      height: auto;
+      margin-top: 30px;
     }
     p {
-      font-size: 18px;
-      line-height: 1.5;
-      text-align: justify;
-      margin-bottom: 20px;
-    }
-    .social-links {
       text-align: center;
-      margin-bottom: 20px;
-    }
-    .social-links a {
-      display: inline-block;
-      margin-right: 20px;
-      color: #333;
-      font-size: 24px;
-      text-decoration: none;
-    }
-    .social-links a:last-child {
-      margin-right: 0;
-    }
-    .social-links a:hover {
-      color: #007bff;
-    }
-    .social-links img {
-      max-width: 32px;
-      height: auto;
-      margin-right: 5px;
+      font-size: 1.2rem;
+      max-width: 800px;
+      margin: auto;
+      margin-top: 30px;
     }
     footer {
       text-align: center;
       margin-top: 50px;
-      font-size: 14px;
-      color: #888;
+      font-size: 0.8rem;
     }
   </style>
 </head>
 <body>
-  <div class="container">
-    <img src="https://pbs.twimg.com/profile_images/1635280999780356097/XCQeqNuy_400x400.jpg" alt="My Picture">
-    <h1>About Me</h1>
-    <p>Hi, my name is Aliyu Adekola. I'm a Software Engineering student at ALX, currently pursuing a Master's degree in Industrial and Labor Relations. I hold a Bachelor's degree in Business Administration and I am passionate about developing innovative software solutions that can make a real impact in people's lives. I have worked on some projects as a student at ALX and have a portfolio of my work on my GitHub page. Link Below.</p>
-    <div class="social-links">
-      <a href="https://twitter.com/realkingtino"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>Twitter</a>
-      <a href="https://www.linkedin.com/in/adekola-aliyu-a46484269"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/>LinkedIn</a>
-      <a href="https://instagram.com/santiiino__"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>Instagram</a>
-      <a href="mailto:tmowizzy@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/>Gmail</a>
-    </div>
-    <div>
-      <img src="https://github-readme-stats.vercel.app/api?username=RealKingTino&show_icons=true&count_private=true&hide=stars&theme=dark" alt="GitHub Stats">
-      <img src="https://komarev.com/ghpvc/?username=RealKingTino" alt="Profile Views">
-    </
+  <img src="https://pbs.twimg.com/profile_images/1635280999780356097/XCQeqNuy_400x400.jpg" alt="My Picture">
+  <h1>About Me</h1>
+  <p>Hi, my name is Aliyu Adekola. I'm a Software Engineering student at ALX, currently pursuing a Master's degree in Industrial and Labor Relations. I hold a Bachelor's degree in Business Administration and I am passionate about developing innovative software solutions that can make a real impact in people's lives. I have worked on some projects as a student at ALX and have a portfolio of my work on my GitHub page. Link Below.</p>
+  <p>
+    Feel free to connect with me on my social media pages:<br>
+    <a href="https://twitter.com/realkingtino"><img src="https://i.imgur.com/0fKwb0Q.png" alt="Twitter Logo"></a> |
+    <a href="https://www.linkedin.com/in/adekola-aliyu-a46484269"><img src="https://i.imgur.com/BMhNInF.png" alt="LinkedIn Logo"></a> |
+    <a href="https://instagram.com/santiiino__"><img src="https://i.imgur.com/wU6iJUa.png" alt="Instagram Logo"></a> |
+    <a href="https://github.com/RealKingTino"><img src="https://i.imgur.com/2fuf3tx.png" alt="GitHub Logo"></a> |
+    <a href="mailto:tmowizzy@gmail.com"><img src="https://i.imgur.com/mG9JQ7V.png" alt="Gmail Logo"></a>
+  </p>
+  <footer>© 2023 Aliyu Adekola</footer>
+</body>
+</html>
 
