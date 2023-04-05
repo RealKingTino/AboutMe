@@ -29,6 +29,7 @@ GitHub
     </p>
     <div class="github-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=RealKingTino&show_icons=true&theme=dracula" alt="GitHub stats">
+	<br>
       <img src="https://komarev.com/ghpvc/?username=RealKingTino&color=blueviolet" alt="Profile views">
     </div>
   </div>
