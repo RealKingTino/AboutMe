@@ -30,8 +30,6 @@ GitHub
     <div class="github-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=RealKingTino&show_icons=true&theme=dracula" alt="GitHub stats">
 	<br>
-	
-	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealKingTino&layout=compact&theme=dracula" alt="Most Used Languages">
 	<br>
 	<img src="https://activity-graph.herokuapp.com/graph?username=RealKingTino&theme=dracula" alt="GitHub Activity Graph">
